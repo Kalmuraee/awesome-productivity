@@ -63,6 +63,7 @@
 - [WorkFlowy](https://workflowy.com/) - Outlining application for nested bulleted lists.
 
 ### Task Management
+- [Notah.ai](https://notah.ai/) - AI meeting assistant with Arabic transcription for 12 dialects.
 
 - [Airtable](https://airtable.com/) - Mix of spreadsheet and database to help organize work.
 - [Amazing Marvin](https://www.amazingmarvin.com/) - Marvin incorporates principles from behavioral psychology to help beat procrastination, feel in control and finish todo list.
